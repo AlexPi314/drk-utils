@@ -1,0 +1,16 @@
+{
+  "name": "drk",
+  "version": "2.0.0",
+  "description": "Utilities of the government of the micronation of Democratic Republic of Kinda",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "AlexP",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.0.0"
+  },
+  "bin": "dist/index.js"
+}
